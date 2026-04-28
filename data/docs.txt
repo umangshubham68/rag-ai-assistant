@@ -1,0 +1,8 @@
+Error: Database connection timeout after 30 seconds
+Fix: Check DB server or increase timeout
+
+Error: Null pointer exception in user service
+Fix: Add null checks before accessing object
+
+Error: API rate limit exceeded
+Fix: Implement retry with exponential backoff
